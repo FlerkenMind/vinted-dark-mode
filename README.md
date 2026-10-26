@@ -72,9 +72,9 @@ Note that this also slightly affects media, since they are only re-inverted, not
 - **Check the console:** open the developer tools (`F12`); you should see `[Vinted Dark Mode] load, ON : true`.
 - **Something looks wrong:** please [open an issue](../../issues) with a screenshot and the page URL.
 
-## Known limitations
+## Known ISSUES
 
-- Elements with a CSS `background-image` that also contain text may show that text with unexpected colors.
+- Bug with next photos button when clicking on 
 - Because the dark mode relies on color inversion, some very specific colors may differ slightly from what a native dark theme would use.
 
 ## Contributing
