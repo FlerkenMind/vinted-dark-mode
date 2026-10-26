@@ -69,7 +69,7 @@ Note that this also slightly affects media, since they are only re-inverted, not
 - **Nothing changes:** check that the script is enabled in your userscript manager, and that its version matches the one in this repository.
 - **Chrome / Edge:** make sure **Allow User Scripts** is enabled (see above).
 - **Private windows:** extensions are disabled there by default. Enable "Run in private windows" in the extension settings.
-- **Check the console:** open the developer tools (`F12`); you should see `[Vinted Dark Mode] chargé, actif : true`.
+- **Check the console:** open the developer tools (`F12`); you should see `[Vinted Dark Mode] load, ON : true`.
 - **Something looks wrong:** please [open an issue](../../issues) with a screenshot and the page URL.
 
 ## Known limitations
