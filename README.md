@@ -41,7 +41,7 @@ Then reload Vinted.
 | Action | How |
 |---|---|
 | Toggle dark mode | `Alt` + `Shift` + `D` |
-| Toggle from the menu | Click the userscript manager icon, then **Activer / désactiver le Dark Mode** |
+| Toggle from the menu | Click the userscript manager icon, then **ON / OFF dark mode** |
 
 ## How it works
 
