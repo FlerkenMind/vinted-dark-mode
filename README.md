@@ -29,10 +29,10 @@ A lightweight userscript that adds a clean **dark mode** to [Vinted](https://www
 **Option A – One click:** open the raw file and your userscript manager will offer to install it:
 
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vinted-dark-mode.user.js
+https://github.com/FlerkenMind/vinted-dark-mode/blob/main/main.js
 ```
 
-**Option B – Manual:** open your userscript manager, create a new script, paste the contents of [`vinted-dark-mode.user.js`](vinted-dark-mode.user.js) and save.
+**Option B – Manual:** open your userscript manager, create a new script, paste the contents of main.js and save.
 
 Then reload Vinted.
 
