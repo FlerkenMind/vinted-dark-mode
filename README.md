@@ -74,7 +74,6 @@ Note that this also slightly affects media, since they are only re-inverted, not
 
 ## Known ISSUES
 
-- Bug with next photos button when clicking on 
 - Because the dark mode relies on color inversion, some very specific colors may differ slightly from what a native dark theme would use.
 
 ## Contributing
