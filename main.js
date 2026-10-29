@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Vinted Dark Mode
-// @namespace    https://github.com/vinted-dark-mode
+// @namespace    https://github.com/FlerkenMind/vinted-dark-mode/blob/main/main.js
 // @version      1.3.0
-// @description  Dark mode propre pour Vinted (toutes extensions). Bascule on/off via le menu Tampermonkey ou Alt+Maj+D. Visionneuse de photos préservée, flèches des galeries visibles.
-// @author       Vous
+// @description  Dark mode for Vinted (all scripts extensions).
+// @author       FlerkenMind
+// @license      MIT
 // @include      /^https?:\/\/([a-z0-9-]+\.)?vinted\.[a-z.]+(\/.*)?$/
 // @run-at       document-start
 // @grant        GM_addStyle
