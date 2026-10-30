@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/FlerkenMind/whatnot-dark-mode/main/vinted-dark-mode.user.js"><img alt="Install Vinted Dark Mode" src="https://img.shields.io/badge/Install-Vinted%20Dark%20Mode-007782?style=for-the-badge"></a>
+  <a href="https://github.com/FlerkenMind/vinted-dark-mode/blob/main/main.js"><img alt="Install Vinted Dark Mode" src="https://img.shields.io/badge/Install-Vinted%20Dark%20Mode-007782?style=for-the-badge"></a>
   &nbsp;
-  <a href="https://raw.githubusercontent.com/FlerkenMind/whatnot-dark-mode/main/whatnot-dark-mode.user.js"><img alt="Install Whatnot Dark Mode" src="https://img.shields.io/badge/Install-Whatnot%20Dark%20Mode-FFC857?style=for-the-badge"></a>
+  <a href="https://github.com/FlerkenMind/whatnot-dark-mode/blob/main/main.js"><img alt="Install Whatnot Dark Mode" src="https://img.shields.io/badge/Install-Whatnot%20Dark%20Mode-FFC857?style=for-the-badge"></a>
 </p>
 
 <p align="center">
